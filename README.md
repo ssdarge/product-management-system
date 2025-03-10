@@ -1,2 +1,3 @@
 # product-management-system
-![chrome_7SnRZXbKak](https://github.com/user-attachments/assets/356bb775-5146-4ca4-907b-9e549c32c49d)
+
+![chrome_AtEIN9Lwwn](https://github.com/user-attachments/assets/1d14f709-3507-407e-8d43-0ee8b421ceb7)
